@@ -30,6 +30,11 @@ a {
   clear: both;
 }
 
+.phones h2 {
+  display: inline;
+  font-size: 1.1em;
+}
+
 /** Detail View **/
 img.phone {
   float: left;
